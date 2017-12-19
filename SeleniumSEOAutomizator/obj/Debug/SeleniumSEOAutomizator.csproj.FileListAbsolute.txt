@@ -1,0 +1,13 @@
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\bin\Debug\SeleniumSEOAutomizator.exe.config
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\bin\Debug\SeleniumSEOAutomizator.exe
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\bin\Debug\SeleniumSEOAutomizator.pdb
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\bin\Debug\WebDriver.dll
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\bin\Debug\WebDriver.Support.dll
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\bin\Debug\WebDriver.xml
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\bin\Debug\WebDriver.Support.xml
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\obj\Debug\SeleniumSEOAutomizator.csprojResolveAssemblyReference.cache
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\obj\Debug\SeleniumSEOAutomizator.Form1.resources
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\obj\Debug\SeleniumSEOAutomizator.Properties.Resources.resources
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\obj\Debug\SeleniumSEOAutomizator.csproj.GenerateResource.Cache
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\obj\Debug\SeleniumSEOAutomizator.exe
+c:\users\exxxa\onedrive\документы\visual studio 2015\Projects\SeleniumSEOAutomizator\SeleniumSEOAutomizator\obj\Debug\SeleniumSEOAutomizator.pdb
